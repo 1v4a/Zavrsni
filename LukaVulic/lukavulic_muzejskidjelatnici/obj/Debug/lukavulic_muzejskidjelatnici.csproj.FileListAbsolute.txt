@@ -1,0 +1,15 @@
+E:\VisualStudio\Zavrsni\LukaVulic\lukavulic_muzejskidjelatnici\bin\Debug\lukavulic_muzejskidjelatnici.exe.config
+E:\VisualStudio\Zavrsni\LukaVulic\lukavulic_muzejskidjelatnici\bin\Debug\lukavulic_muzejskidjelatnici.exe
+E:\VisualStudio\Zavrsni\LukaVulic\lukavulic_muzejskidjelatnici\bin\Debug\lukavulic_muzejskidjelatnici.pdb
+E:\VisualStudio\Zavrsni\LukaVulic\lukavulic_muzejskidjelatnici\bin\Debug\EntityFramework.dll
+E:\VisualStudio\Zavrsni\LukaVulic\lukavulic_muzejskidjelatnici\bin\Debug\EntityFramework.SqlServer.dll
+E:\VisualStudio\Zavrsni\LukaVulic\lukavulic_muzejskidjelatnici\bin\Debug\EntityFramework.xml
+E:\VisualStudio\Zavrsni\LukaVulic\lukavulic_muzejskidjelatnici\bin\Debug\EntityFramework.SqlServer.xml
+E:\VisualStudio\Zavrsni\LukaVulic\lukavulic_muzejskidjelatnici\obj\Debug\lukavulic_muzejskidjelatnici.csproj.AssemblyReference.cache
+E:\VisualStudio\Zavrsni\LukaVulic\lukavulic_muzejskidjelatnici\obj\Debug\lukavulic_muzejskidjelatnici.Form1.resources
+E:\VisualStudio\Zavrsni\LukaVulic\lukavulic_muzejskidjelatnici\obj\Debug\lukavulic_muzejskidjelatnici.Properties.Resources.resources
+E:\VisualStudio\Zavrsni\LukaVulic\lukavulic_muzejskidjelatnici\obj\Debug\lukavulic_muzejskidjelatnici.csproj.GenerateResource.cache
+E:\VisualStudio\Zavrsni\LukaVulic\lukavulic_muzejskidjelatnici\obj\Debug\lukavulic_muzejskidjelatnici.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Zavrsni\LukaVulic\lukavulic_muzejskidjelatnici\obj\Debug\lukavulic_muzejskidjelatnici.csproj.CopyComplete
+E:\VisualStudio\Zavrsni\LukaVulic\lukavulic_muzejskidjelatnici\obj\Debug\lukavulic_muzejskidjelatnici.exe
+E:\VisualStudio\Zavrsni\LukaVulic\lukavulic_muzejskidjelatnici\obj\Debug\lukavulic_muzejskidjelatnici.pdb

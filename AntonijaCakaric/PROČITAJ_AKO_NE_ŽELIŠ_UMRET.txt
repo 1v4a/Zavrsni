@@ -1,0 +1,12 @@
+1. PROUČI TIJEK PROGRAMA, proučavajući komentare postavljene uokolo. Ne odgovaram za lijenost
+2. POGLEDAJ SVE FILE-ove, sve je bitno pogledati kako ne bi nešto izmaklo
+3. U file-u App.config imaš komentar koji pokazuje gdje staviti svoj Connection String - pitaj u dm ako trebaš pomoć
+4. kad dodaš Connection String imaš .sql file koji treba pokrenuti u PRAZNOJ bazi sa imenom iz Connection Stringa
+
+SAVJETI
+- obriši komentare da Grbić ne posumnja
+- ako ti estetika ne paše slobodno promijeni ako znaš
+- bilo bi dobro dodati neke početne podatke, ali nimalo nije potrebno
+
+
+OBRIŠI OVAJ FILE KAD SVE PROČITAŠ !!!

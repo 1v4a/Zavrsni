@@ -1,0 +1,15 @@
+E:\VisualStudio\Zavrsni\MarkoKaratur\MarkoKaratur-TrgovineNTL\bin\Debug\MarkoKaratur-TrgovineNTL.exe.config
+E:\VisualStudio\Zavrsni\MarkoKaratur\MarkoKaratur-TrgovineNTL\bin\Debug\MarkoKaratur-TrgovineNTL.exe
+E:\VisualStudio\Zavrsni\MarkoKaratur\MarkoKaratur-TrgovineNTL\bin\Debug\MarkoKaratur-TrgovineNTL.pdb
+E:\VisualStudio\Zavrsni\MarkoKaratur\MarkoKaratur-TrgovineNTL\bin\Debug\EntityFramework.dll
+E:\VisualStudio\Zavrsni\MarkoKaratur\MarkoKaratur-TrgovineNTL\bin\Debug\EntityFramework.SqlServer.dll
+E:\VisualStudio\Zavrsni\MarkoKaratur\MarkoKaratur-TrgovineNTL\bin\Debug\EntityFramework.xml
+E:\VisualStudio\Zavrsni\MarkoKaratur\MarkoKaratur-TrgovineNTL\bin\Debug\EntityFramework.SqlServer.xml
+E:\VisualStudio\Zavrsni\MarkoKaratur\MarkoKaratur-TrgovineNTL\obj\Debug\MarkoKaratur-TrgovineNTL.csproj.AssemblyReference.cache
+E:\VisualStudio\Zavrsni\MarkoKaratur\MarkoKaratur-TrgovineNTL\obj\Debug\MarkoKaratur_TrgovineNTL.Form1.resources
+E:\VisualStudio\Zavrsni\MarkoKaratur\MarkoKaratur-TrgovineNTL\obj\Debug\MarkoKaratur_TrgovineNTL.Properties.Resources.resources
+E:\VisualStudio\Zavrsni\MarkoKaratur\MarkoKaratur-TrgovineNTL\obj\Debug\MarkoKaratur-TrgovineNTL.csproj.GenerateResource.cache
+E:\VisualStudio\Zavrsni\MarkoKaratur\MarkoKaratur-TrgovineNTL\obj\Debug\MarkoKaratur-TrgovineNTL.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Zavrsni\MarkoKaratur\MarkoKaratur-TrgovineNTL\obj\Debug\MarkoKaratur-TrgovineNTL.csproj.CopyComplete
+E:\VisualStudio\Zavrsni\MarkoKaratur\MarkoKaratur-TrgovineNTL\obj\Debug\MarkoKaratur-TrgovineNTL.exe
+E:\VisualStudio\Zavrsni\MarkoKaratur\MarkoKaratur-TrgovineNTL\obj\Debug\MarkoKaratur-TrgovineNTL.pdb
