@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Zadatak_DF_BolnicaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="Zadatak_DF_BolnicaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Pacijenti" EntityType="Zadatak_DF_BolnicaModel.Pacijent" />
+  </EntityContainer>
+  <EntityType Name="Pacijent">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ime" Type="String" Nullable="false" />
+    <Property Name="Prezime" Type="String" Nullable="false" />
+    <Property Name="Odjel" Type="String" Nullable="false" />
+    <Property Name="Kriticnost" Type="String" Nullable="false" />
+    <Property Name="Stacioniran" Type="String" Nullable="false" />
+  </EntityType>
+</Schema>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BusniKolodvorModelStoreContainer" CdmEntityContainer="BusniKolodvorEntities">
+    <EntitySetMapping Name="Buses">
+      <EntityTypeMapping TypeName="IsTypeOf(BusniKolodvorModel.Bus)">
+        <MappingFragment StoreEntitySet="Buses">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Linija" ColumnName="Linija" />
+          <ScalarProperty Name="Registracija" ColumnName="Registracija" />
+          <ScalarProperty Name="Kapacitet" ColumnName="Kapacitet" />
+          <ScalarProperty Name="Skolski" ColumnName="Skolski" />
+          <ScalarProperty Name="Kompanija" ColumnName="Kompanija" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

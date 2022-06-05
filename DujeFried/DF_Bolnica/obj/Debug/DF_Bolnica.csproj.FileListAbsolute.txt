@@ -1,0 +1,15 @@
+E:\VisualStudio\Zavrsni\DujeFried\DF_Bolnica\bin\Debug\DF_Bolnica.exe.config
+E:\VisualStudio\Zavrsni\DujeFried\DF_Bolnica\bin\Debug\DF_Bolnica.exe
+E:\VisualStudio\Zavrsni\DujeFried\DF_Bolnica\bin\Debug\DF_Bolnica.pdb
+E:\VisualStudio\Zavrsni\DujeFried\DF_Bolnica\bin\Debug\EntityFramework.dll
+E:\VisualStudio\Zavrsni\DujeFried\DF_Bolnica\bin\Debug\EntityFramework.SqlServer.dll
+E:\VisualStudio\Zavrsni\DujeFried\DF_Bolnica\bin\Debug\EntityFramework.xml
+E:\VisualStudio\Zavrsni\DujeFried\DF_Bolnica\bin\Debug\EntityFramework.SqlServer.xml
+E:\VisualStudio\Zavrsni\DujeFried\DF_Bolnica\obj\Debug\DF_Bolnica.csproj.AssemblyReference.cache
+E:\VisualStudio\Zavrsni\DujeFried\DF_Bolnica\obj\Debug\DF_Bolnica.Form1.resources
+E:\VisualStudio\Zavrsni\DujeFried\DF_Bolnica\obj\Debug\DF_Bolnica.Properties.Resources.resources
+E:\VisualStudio\Zavrsni\DujeFried\DF_Bolnica\obj\Debug\DF_Bolnica.csproj.GenerateResource.cache
+E:\VisualStudio\Zavrsni\DujeFried\DF_Bolnica\obj\Debug\DF_Bolnica.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Zavrsni\DujeFried\DF_Bolnica\obj\Debug\DF_Bolnica.csproj.CopyComplete
+E:\VisualStudio\Zavrsni\DujeFried\DF_Bolnica\obj\Debug\DF_Bolnica.exe
+E:\VisualStudio\Zavrsni\DujeFried\DF_Bolnica\obj\Debug\DF_Bolnica.pdb

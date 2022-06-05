@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="Playliste_AntonijaCModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="Playliste_AntonijaCModelStoreContainer">
+    <EntitySet Name="Playlista" EntityType="Playliste_AntonijaCModel.Store.Playlista" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Playlista">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Ime" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Autor" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Duljina" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Distribucija" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Eksplicitno" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Grammy" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+</Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="Playliste_AntonijaCModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="Playliste_AntonijaCEntities" annotation:LazyLoadingEnabled="true" >
+          <EntitySet Name="Playlista" EntityType="Playliste_AntonijaCModel.Pjesma" />
+        </EntityContainer>
+        <EntityType Name="Pjesma">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Ime" Type="String" Nullable="false" />
+          <Property Name="Autor" Type="String" Nullable="false" />
+          <Property Name="Duljina" Type="String" Nullable="false" />
+          <Property Name="Distribucija" Type="String" Nullable="false" />
+          <Property Name="Eksplicitno" Type="String" Nullable="false" />
+          <Property Name="Grammy" Type="String" Nullable="false" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+    <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Playliste_AntonijaCModelStoreContainer" CdmEntityContainer="Playliste_AntonijaCEntities">
+    <EntitySetMapping Name="Playlista">
+      <EntityTypeMapping TypeName="IsTypeOf(Playliste_AntonijaCModel.Pjesma)">
+        <MappingFragment StoreEntitySet="Playlista">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ime" ColumnName="Ime" />
+          <ScalarProperty Name="Autor" ColumnName="Autor" />
+          <ScalarProperty Name="Duljina" ColumnName="Duljina" />
+          <ScalarProperty Name="Distribucija" ColumnName="Distribucija" />
+          <ScalarProperty Name="Eksplicitno" ColumnName="Eksplicitno" />
+          <ScalarProperty Name="Grammy" ColumnName="Grammy" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping></edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="False" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

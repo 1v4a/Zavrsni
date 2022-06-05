@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Zadatak_DF_BolnicaModelStoreContainer" CdmEntityContainer="Zadatak_DF_BolnicaEntities">
+    <EntitySetMapping Name="Pacijenti">
+      <EntityTypeMapping TypeName="IsTypeOf(Zadatak_DF_BolnicaModel.Pacijent)">
+        <MappingFragment StoreEntitySet="Pacijenti">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ime" ColumnName="Ime" />
+          <ScalarProperty Name="Prezime" ColumnName="Prezime" />
+          <ScalarProperty Name="Odjel" ColumnName="Odjel" />
+          <ScalarProperty Name="Kriticnost" ColumnName="Kriticnost" />
+          <ScalarProperty Name="Stacioniran" ColumnName="Stacioniran" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,15 @@
+E:\VisualStudio\Zavrsni\MateoCica\ČičaZAVRŠNI_Programiranje\bin\Debug\ČičaZAVRŠNI_Programiranje.exe.config
+E:\VisualStudio\Zavrsni\MateoCica\ČičaZAVRŠNI_Programiranje\bin\Debug\ČičaZAVRŠNI_Programiranje.exe
+E:\VisualStudio\Zavrsni\MateoCica\ČičaZAVRŠNI_Programiranje\bin\Debug\ČičaZAVRŠNI_Programiranje.pdb
+E:\VisualStudio\Zavrsni\MateoCica\ČičaZAVRŠNI_Programiranje\bin\Debug\EntityFramework.dll
+E:\VisualStudio\Zavrsni\MateoCica\ČičaZAVRŠNI_Programiranje\bin\Debug\EntityFramework.SqlServer.dll
+E:\VisualStudio\Zavrsni\MateoCica\ČičaZAVRŠNI_Programiranje\bin\Debug\EntityFramework.xml
+E:\VisualStudio\Zavrsni\MateoCica\ČičaZAVRŠNI_Programiranje\bin\Debug\EntityFramework.SqlServer.xml
+E:\VisualStudio\Zavrsni\MateoCica\ČičaZAVRŠNI_Programiranje\obj\Debug\ČičaZAVRŠNI_Programiranje.csproj.AssemblyReference.cache
+E:\VisualStudio\Zavrsni\MateoCica\ČičaZAVRŠNI_Programiranje\obj\Debug\ČičaZAVRŠNI_Programiranje.Form1.resources
+E:\VisualStudio\Zavrsni\MateoCica\ČičaZAVRŠNI_Programiranje\obj\Debug\ČičaZAVRŠNI_Programiranje.Properties.Resources.resources
+E:\VisualStudio\Zavrsni\MateoCica\ČičaZAVRŠNI_Programiranje\obj\Debug\ČičaZAVRŠNI_Programiranje.csproj.GenerateResource.cache
+E:\VisualStudio\Zavrsni\MateoCica\ČičaZAVRŠNI_Programiranje\obj\Debug\ČičaZAVRŠNI_Programiranje.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Zavrsni\MateoCica\ČičaZAVRŠNI_Programiranje\obj\Debug\ČičaZAVRŠNI_Programiranje.csproj.CopyComplete
+E:\VisualStudio\Zavrsni\MateoCica\ČičaZAVRŠNI_Programiranje\obj\Debug\ČičaZAVRŠNI_Programiranje.exe
+E:\VisualStudio\Zavrsni\MateoCica\ČičaZAVRŠNI_Programiranje\obj\Debug\ČičaZAVRŠNI_Programiranje.pdb

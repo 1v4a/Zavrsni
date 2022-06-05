@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ZadatakProgramiranjeModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="ZadatakProgramiranjeEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="GrafickeKartice" EntityType="ZadatakProgramiranjeModel.GrafickaKartica" />
+  </EntityContainer>
+  <EntityType Name="GrafickaKartica">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Marka" Type="String" Nullable="false" />
+    <Property Name="MjesecDostave" Type="String" Nullable="false" />
+    <Property Name="BrojMjeseci" Type="String" Nullable="false" />
+    <Property Name="Rezervirana" Type="String" Nullable="false" />
+    <Property Name="Odjeljak" Type="String" Nullable="false" />
+  </EntityType>
+</Schema>

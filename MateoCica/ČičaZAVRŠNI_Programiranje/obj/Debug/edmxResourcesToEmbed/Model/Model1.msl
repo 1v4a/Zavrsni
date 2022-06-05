@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ZadatakProgramiranjeModelStoreContainer" CdmEntityContainer="ZadatakProgramiranjeEntities">
+    <EntitySetMapping Name="GrafickeKartice">
+      <EntityTypeMapping TypeName="IsTypeOf(ZadatakProgramiranjeModel.GrafickaKartica)">
+        <MappingFragment StoreEntitySet="GrafickeKartice">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Marka" ColumnName="Marka" />
+          <ScalarProperty Name="MjesecDostave" ColumnName="MjesecDostave" />
+          <ScalarProperty Name="BrojMjeseci" ColumnName="BrojMjeseci" />
+          <ScalarProperty Name="Rezervirana" ColumnName="Rezervirana" />
+          <ScalarProperty Name="Odjeljak" ColumnName="Odjeljak" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,15 @@
+E:\VisualStudio\Zavrsni\AntonijaCakaric\AČ_Playlista\bin\Debug\AČ_Playlista.exe.config
+E:\VisualStudio\Zavrsni\AntonijaCakaric\AČ_Playlista\bin\Debug\AČ_Playlista.exe
+E:\VisualStudio\Zavrsni\AntonijaCakaric\AČ_Playlista\bin\Debug\AČ_Playlista.pdb
+E:\VisualStudio\Zavrsni\AntonijaCakaric\AČ_Playlista\bin\Debug\EntityFramework.dll
+E:\VisualStudio\Zavrsni\AntonijaCakaric\AČ_Playlista\bin\Debug\EntityFramework.SqlServer.dll
+E:\VisualStudio\Zavrsni\AntonijaCakaric\AČ_Playlista\bin\Debug\EntityFramework.xml
+E:\VisualStudio\Zavrsni\AntonijaCakaric\AČ_Playlista\bin\Debug\EntityFramework.SqlServer.xml
+E:\VisualStudio\Zavrsni\AntonijaCakaric\AČ_Playlista\obj\Debug\AČ_Playlista.csproj.AssemblyReference.cache
+E:\VisualStudio\Zavrsni\AntonijaCakaric\AČ_Playlista\obj\Debug\AČ_Playlista.Form1.resources
+E:\VisualStudio\Zavrsni\AntonijaCakaric\AČ_Playlista\obj\Debug\AČ_Playlista.Properties.Resources.resources
+E:\VisualStudio\Zavrsni\AntonijaCakaric\AČ_Playlista\obj\Debug\AČ_Playlista.csproj.GenerateResource.cache
+E:\VisualStudio\Zavrsni\AntonijaCakaric\AČ_Playlista\obj\Debug\AČ_Playlista.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Zavrsni\AntonijaCakaric\AČ_Playlista\obj\Debug\AČ_Playlista.csproj.CopyComplete
+E:\VisualStudio\Zavrsni\AntonijaCakaric\AČ_Playlista\obj\Debug\AČ_Playlista.exe
+E:\VisualStudio\Zavrsni\AntonijaCakaric\AČ_Playlista\obj\Debug\AČ_Playlista.pdb

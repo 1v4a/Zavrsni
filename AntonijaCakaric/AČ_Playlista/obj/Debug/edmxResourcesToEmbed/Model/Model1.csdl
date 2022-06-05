@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Playliste_AntonijaCModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="Playliste_AntonijaCEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Playlista" EntityType="Playliste_AntonijaCModel.Pjesma" />
+  </EntityContainer>
+  <EntityType Name="Pjesma">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ime" Type="String" Nullable="false" />
+    <Property Name="Autor" Type="String" Nullable="false" />
+    <Property Name="Duljina" Type="String" Nullable="false" />
+    <Property Name="Distribucija" Type="String" Nullable="false" />
+    <Property Name="Eksplicitno" Type="String" Nullable="false" />
+    <Property Name="Grammy" Type="String" Nullable="false" />
+  </EntityType>
+</Schema>

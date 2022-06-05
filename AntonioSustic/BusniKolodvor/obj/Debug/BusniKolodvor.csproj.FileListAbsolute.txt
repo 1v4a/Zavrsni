@@ -1,0 +1,15 @@
+E:\VisualStudio\Zavrsni\AntonioSustic\BusniKolodvor\bin\Debug\BusniKolodvor.exe.config
+E:\VisualStudio\Zavrsni\AntonioSustic\BusniKolodvor\bin\Debug\BusniKolodvor.exe
+E:\VisualStudio\Zavrsni\AntonioSustic\BusniKolodvor\bin\Debug\BusniKolodvor.pdb
+E:\VisualStudio\Zavrsni\AntonioSustic\BusniKolodvor\bin\Debug\EntityFramework.dll
+E:\VisualStudio\Zavrsni\AntonioSustic\BusniKolodvor\bin\Debug\EntityFramework.SqlServer.dll
+E:\VisualStudio\Zavrsni\AntonioSustic\BusniKolodvor\bin\Debug\EntityFramework.xml
+E:\VisualStudio\Zavrsni\AntonioSustic\BusniKolodvor\bin\Debug\EntityFramework.SqlServer.xml
+E:\VisualStudio\Zavrsni\AntonioSustic\BusniKolodvor\obj\Debug\BusniKolodvor.csproj.AssemblyReference.cache
+E:\VisualStudio\Zavrsni\AntonioSustic\BusniKolodvor\obj\Debug\BusniKolodvor.Form1.resources
+E:\VisualStudio\Zavrsni\AntonioSustic\BusniKolodvor\obj\Debug\BusniKolodvor.Properties.Resources.resources
+E:\VisualStudio\Zavrsni\AntonioSustic\BusniKolodvor\obj\Debug\BusniKolodvor.csproj.GenerateResource.cache
+E:\VisualStudio\Zavrsni\AntonioSustic\BusniKolodvor\obj\Debug\BusniKolodvor.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Zavrsni\AntonioSustic\BusniKolodvor\obj\Debug\BusniKolodvor.csproj.CopyComplete
+E:\VisualStudio\Zavrsni\AntonioSustic\BusniKolodvor\obj\Debug\BusniKolodvor.exe
+E:\VisualStudio\Zavrsni\AntonioSustic\BusniKolodvor\obj\Debug\BusniKolodvor.pdb

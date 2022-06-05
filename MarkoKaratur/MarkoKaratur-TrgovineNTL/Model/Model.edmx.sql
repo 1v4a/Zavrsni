@@ -2,9 +2,6 @@
 -- --------------------------------------------------
 -- Entity Designer DDL Script for SQL Server 2005, 2008, 2012 and Azure
 -- --------------------------------------------------
--- Date Created: 06/03/2022 17:57:51
--- Generated from EDMX file: E:\VisualStudio\Zavrsni\MarkoKaratur\MarkoKaratur-TrgovineNTL\Model\Model.edmx
--- --------------------------------------------------
 
 SET QUOTED_IDENTIFIER OFF;
 GO

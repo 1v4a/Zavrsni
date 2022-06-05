@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Zadatak_DF_BolnicaModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="Zadatak_DF_BolnicaModelStoreContainer">
+    <EntitySet Name="Pacijenti" EntityType="Zadatak_DF_BolnicaModel.Store.Pacijenti" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Pacijenti">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Ime" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Prezime" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Odjel" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Kriticnost" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Stacioniran" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+</Schema>
