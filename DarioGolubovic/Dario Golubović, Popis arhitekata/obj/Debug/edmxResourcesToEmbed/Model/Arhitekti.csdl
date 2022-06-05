@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Zavrsni_DarioGModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="Zavrsni_DarioGEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Arhitekti" EntityType="Zavrsni_DarioGModel.Arhitekt" />
+  </EntityContainer>
+  <EntityType Name="Arhitekt">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ime" Type="String" Nullable="false" />
+    <Property Name="Prezime" Type="String" Nullable="false" />
+    <Property Name="Zvanje" Type="String" Nullable="false" />
+    <Property Name="GodineIskustva" Type="String" Nullable="false" />
+    <Property Name="Zauzet" Type="String" Nullable="false" />
+  </EntityType>
+</Schema>

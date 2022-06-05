@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Zavrsni_DarioGModelStoreContainer" CdmEntityContainer="Zavrsni_DarioGEntities">
+    <EntitySetMapping Name="Arhitekti">
+      <EntityTypeMapping TypeName="IsTypeOf(Zavrsni_DarioGModel.Arhitekt)">
+        <MappingFragment StoreEntitySet="Arhitekti">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ime" ColumnName="Ime" />
+          <ScalarProperty Name="Prezime" ColumnName="Prezime" />
+          <ScalarProperty Name="Zvanje" ColumnName="Zvanje" />
+          <ScalarProperty Name="GodineIskustva" ColumnName="GodineIskustva" />
+          <ScalarProperty Name="Zauzet" ColumnName="Zauzet" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

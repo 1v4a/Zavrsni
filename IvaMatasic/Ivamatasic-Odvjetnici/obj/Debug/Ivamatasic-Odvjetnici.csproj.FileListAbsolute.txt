@@ -1,0 +1,15 @@
+E:\VisualStudio\Zavrsni\IvaMatasic\Ivamatasic-Odvjetnici\bin\Debug\Ivamatasic-Odvjetnici.exe.config
+E:\VisualStudio\Zavrsni\IvaMatasic\Ivamatasic-Odvjetnici\bin\Debug\Ivamatasic-Odvjetnici.exe
+E:\VisualStudio\Zavrsni\IvaMatasic\Ivamatasic-Odvjetnici\bin\Debug\Ivamatasic-Odvjetnici.pdb
+E:\VisualStudio\Zavrsni\IvaMatasic\Ivamatasic-Odvjetnici\bin\Debug\EntityFramework.dll
+E:\VisualStudio\Zavrsni\IvaMatasic\Ivamatasic-Odvjetnici\bin\Debug\EntityFramework.SqlServer.dll
+E:\VisualStudio\Zavrsni\IvaMatasic\Ivamatasic-Odvjetnici\bin\Debug\EntityFramework.xml
+E:\VisualStudio\Zavrsni\IvaMatasic\Ivamatasic-Odvjetnici\bin\Debug\EntityFramework.SqlServer.xml
+E:\VisualStudio\Zavrsni\IvaMatasic\Ivamatasic-Odvjetnici\obj\Debug\Ivamatasic-Odvjetnici.csproj.AssemblyReference.cache
+E:\VisualStudio\Zavrsni\IvaMatasic\Ivamatasic-Odvjetnici\obj\Debug\Ivamatasic_Odvjetnici.Form1.resources
+E:\VisualStudio\Zavrsni\IvaMatasic\Ivamatasic-Odvjetnici\obj\Debug\Ivamatasic_Odvjetnici.Properties.Resources.resources
+E:\VisualStudio\Zavrsni\IvaMatasic\Ivamatasic-Odvjetnici\obj\Debug\Ivamatasic-Odvjetnici.csproj.GenerateResource.cache
+E:\VisualStudio\Zavrsni\IvaMatasic\Ivamatasic-Odvjetnici\obj\Debug\Ivamatasic-Odvjetnici.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Zavrsni\IvaMatasic\Ivamatasic-Odvjetnici\obj\Debug\Ivamatasic-Odvjetnici.csproj.CopyComplete
+E:\VisualStudio\Zavrsni\IvaMatasic\Ivamatasic-Odvjetnici\obj\Debug\Ivamatasic-Odvjetnici.exe
+E:\VisualStudio\Zavrsni\IvaMatasic\Ivamatasic-Odvjetnici\obj\Debug\Ivamatasic-Odvjetnici.pdb

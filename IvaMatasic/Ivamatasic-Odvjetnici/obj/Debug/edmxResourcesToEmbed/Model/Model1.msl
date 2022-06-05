@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ZavrsniNOPModelStoreContainer" CdmEntityContainer="ZavrsniNOPEntities">
+    <EntitySetMapping Name="Odvjetniks">
+      <EntityTypeMapping TypeName="IsTypeOf(ZavrsniNOPModel.Odvjetnik)">
+        <MappingFragment StoreEntitySet="Odvjetniks">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ime" ColumnName="Ime" />
+          <ScalarProperty Name="Prezime" ColumnName="Prezime" />
+          <ScalarProperty Name="Godine" ColumnName="Godine" />
+          <ScalarProperty Name="TICOugovor" ColumnName="TICOugovor" />
+          <ScalarProperty Name="Posudba" ColumnName="Posudba" />
+          <ScalarProperty Name="Razina" ColumnName="Razina" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

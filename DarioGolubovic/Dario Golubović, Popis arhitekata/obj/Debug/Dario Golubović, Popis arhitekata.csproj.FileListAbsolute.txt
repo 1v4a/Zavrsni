@@ -1,0 +1,15 @@
+E:\VisualStudio\Zavrsni\DarioGolubovic\Dario Golubović, Popis arhitekata\obj\Debug\Dario Golubović, Popis arhitekata.csproj.AssemblyReference.cache
+E:\VisualStudio\Zavrsni\DarioGolubovic\Dario Golubović, Popis arhitekata\obj\Debug\Dario_Golubović__Popis_arhitekata.Form1.resources
+E:\VisualStudio\Zavrsni\DarioGolubovic\Dario Golubović, Popis arhitekata\obj\Debug\Dario_Golubović__Popis_arhitekata.Properties.Resources.resources
+E:\VisualStudio\Zavrsni\DarioGolubovic\Dario Golubović, Popis arhitekata\obj\Debug\Dario Golubović, Popis arhitekata.csproj.GenerateResource.cache
+E:\VisualStudio\Zavrsni\DarioGolubovic\Dario Golubović, Popis arhitekata\obj\Debug\Dario Golubović, Popis arhitekata.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Zavrsni\DarioGolubovic\Dario Golubović, Popis arhitekata\bin\Debug\Dario Golubović, Popis arhitekata.exe.config
+E:\VisualStudio\Zavrsni\DarioGolubovic\Dario Golubović, Popis arhitekata\bin\Debug\Dario Golubović, Popis arhitekata.exe
+E:\VisualStudio\Zavrsni\DarioGolubovic\Dario Golubović, Popis arhitekata\bin\Debug\Dario Golubović, Popis arhitekata.pdb
+E:\VisualStudio\Zavrsni\DarioGolubovic\Dario Golubović, Popis arhitekata\bin\Debug\EntityFramework.dll
+E:\VisualStudio\Zavrsni\DarioGolubovic\Dario Golubović, Popis arhitekata\bin\Debug\EntityFramework.SqlServer.dll
+E:\VisualStudio\Zavrsni\DarioGolubovic\Dario Golubović, Popis arhitekata\bin\Debug\EntityFramework.xml
+E:\VisualStudio\Zavrsni\DarioGolubovic\Dario Golubović, Popis arhitekata\bin\Debug\EntityFramework.SqlServer.xml
+E:\VisualStudio\Zavrsni\DarioGolubovic\Dario Golubović, Popis arhitekata\obj\Debug\Dario Golubović, Popis arhitekata.csproj.CopyComplete
+E:\VisualStudio\Zavrsni\DarioGolubovic\Dario Golubović, Popis arhitekata\obj\Debug\Dario Golubović, Popis arhitekata.exe
+E:\VisualStudio\Zavrsni\DarioGolubovic\Dario Golubović, Popis arhitekata\obj\Debug\Dario Golubović, Popis arhitekata.pdb
